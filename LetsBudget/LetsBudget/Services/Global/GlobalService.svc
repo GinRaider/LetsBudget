@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="LetsBudget.Services.GlobalService" CodeBehind="GlobalService.svc.cs" %>

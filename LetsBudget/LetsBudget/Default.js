@@ -1,0 +1,1 @@
+﻿var globalService = "Services/Global/GlobalService.svc";
